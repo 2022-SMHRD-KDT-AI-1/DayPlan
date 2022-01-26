@@ -56,8 +56,8 @@
 							이름 : <input type="text" name="name" placeholder="이름을 입력해주세요" /><br> 
 							생년월일 : <input type="date" name="birth"><br>
 
-							<div class="col-4 col-12-small">
-								<input type="radio" id="gender" name="man" checked> 
+						<div class="col-4 col-12-small">
+							<input type="radio" id="gender" name="man" checked> 
 								<label>남자</label> 
 								<input type="radio" id="gender" name="women" checked> 
 								<label for="demo-priority-low">여자</label>
